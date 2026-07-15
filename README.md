@@ -57,8 +57,8 @@ python pip install -r requiments.txt
 ```
 ## 📥 Download
 
-- [Download MC SAVE BACKUP .EXE]()
-- [Download MC SAVE BACKUP .ZIP]()
+- [Download MC SAVE BACKUP .EXE](https://github.com/Just-Nicks/MC-Save-Backup/releases/download/v1.0/backup-saves_menu.exe)
+- [Download MC SAVE BACKUP .ZIP](https://github.com/Just-Nicks/MC-Save-Backup/archive/refs/tags/v1.0.zip)
   
 # 📷 Pictures
 ![Main Menu](screenshots/menu.png)

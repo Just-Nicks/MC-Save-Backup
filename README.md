@@ -51,7 +51,10 @@ rich >= 15.0.0
 
 If you want a quick installation, use the included `requirements.txt` file.
 
-- use ```python python pip install -r requiments.txt``` on cmd
+- use on cmd
+```python
+python pip install -r requiments.txt
+```
 
 ### This traduction its make by chat-gpt
 
@@ -110,4 +113,7 @@ rich >= 15.0.0
 
 Caso queira uma instalação rápida, utilize o arquivo `requirements.txt`.
 
-- use ```python python pip install -r requiments.txt``` no terminal
+- use no terminal
+```python
+python pip install -r requiments.txt
+```

@@ -45,10 +45,8 @@ In this example, the **Fabric 1.20.*** **instance** was selected in the **Modrin
 This script uses a few libraries that are required to run the `.py` version:
 
 ```python
-from rich.console import Console
-from rich.progress import track
-from rich.prompt import Prompt, Confirm
-from rich.theme import Theme
+Python >= 3.14.6
+rich >= 15.0.0
 ```
 
 If you want a quick installation, use the included `requirements.txt` file.

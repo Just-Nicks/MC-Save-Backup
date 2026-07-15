@@ -55,8 +55,23 @@ If you want a quick installation, use the included `requirements.txt` file.
 ```python
 python pip install -r requiments.txt
 ```
+## 📥 Download
 
-### This traduction its make by chat-gpt
+- [Download MC SAVE BACKUP .EXE]()
+- [Download MC SAVE BACKUP .ZIP]()
+  
+# 📷 Pictures
+![Main Menu](screenshots/menu.png)
+![curseforge](screenshots/curseforge.png)
+![modrinth](screenshots/modrinth.png)
+![instance not found](screenshots/instence_!exist.png)
+![have saves](screenshots/exist_saves.png)
+![abort process](screenshots/abort_process.png)
+![making backup](screenshots/making_backup.png)
+![backup completed](screenshots/backup_complet.png)
+![final folder](screenshots/final_folder.png)
+![loaders folders](screenshots/all_loaders_folder.png)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -4,6 +4,13 @@ A lightweight Python utility that automatically backs up your Minecraft worlds f
 
 The script copies all saves from the selected launcher and stores them in a dedicated backup folder inside your Documents directory.
 
+## ⬇️ Downloads:
+* [MC SAVE WOLRDS.exe](https://github.com/Just-Nicks/MC-Save-Backup/releases/download/v1.0/backup-saves_menu.exe)
+* [MC SAVE BACKUP.zip](https://github.com/Just-Nicks/MC-Save-Backup/archive/refs/tags/v1.0.zip)
+
+* EXE = Executable
+* ZIP = ALL FILES OF REPOSITORE  
+
 ## ✨ Features
 
 * Supports the official Minecraft Launcher

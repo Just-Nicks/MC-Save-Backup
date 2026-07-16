@@ -87,7 +87,9 @@ pip install -r requirements.txt
 
 Or install Rich manually:
 
+```bash
 pip install rich
+```
 
 ## 🤔 How to use
 

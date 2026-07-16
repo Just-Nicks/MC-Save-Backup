@@ -72,11 +72,15 @@ Saves Backups MC/
 * Python 3.8+
 * Rich
 
-Install dependencies:
+Install all required packages using the provided requirements.txt file:
 
 ```bash
-pip install rich
+pip install -r requirements.txt
 ```
+
+Or install Rich manually:
+
+pip install rich
 
 ## 🤔 How to use
 
@@ -86,7 +90,7 @@ Run the script:
 python main.py
 ```
 
-#### OR RUN THE EXECUTABLE!
+### ❗❗OR RUN THE EXECUTABLE❗❗
 
 You will be asked to choose your launcher:
 

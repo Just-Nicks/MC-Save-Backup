@@ -96,7 +96,7 @@ pip install rich
 Run the script:
 
 ```bash
-python main.py
+python backup-saves_menu.py
 ```
 
 ### ❗❗OR RUN THE EXECUTABLE❗❗
